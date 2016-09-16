@@ -63,24 +63,24 @@
       <HintPath>..\packages\Helios.1.4.2\lib\net45\Helios.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="InventoryService, Version=1.0.6103.21445, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>packages\InventoryService.Server.0.3.4-pre\lib\net40\InventoryService.dll</HintPath>
+    <Reference Include="InventoryService, Version=1.0.6103.26020, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\InventoryService.Server.0.4.0-pre\lib\net40\InventoryService.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="InventoryService.Actors, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>packages\InventoryService.Server.0.3.4-pre\lib\net40\InventoryService.Actors.dll</HintPath>
+      <HintPath>packages\InventoryService.Server.0.4.0-pre\lib\net40\InventoryService.Actors.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="InventoryService.ActorSystemFactoryLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>packages\InventoryService.Server.0.3.4-pre\lib\net40\InventoryService.ActorSystemFactoryLib.dll</HintPath>
+      <HintPath>packages\InventoryService.Server.0.4.0-pre\lib\net40\InventoryService.ActorSystemFactoryLib.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="InventoryService.AkkaInMemoryServer, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>packages\InventoryService.Server.0.3.4-pre\lib\net40\InventoryService.AkkaInMemoryServer.dll</HintPath>
+      <HintPath>packages\InventoryService.Server.0.4.0-pre\lib\net40\InventoryService.AkkaInMemoryServer.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="InventoryService.InMemory, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>packages\InventoryService.Server.0.3.4-pre\lib\net40\InventoryService.InMemory.dll</HintPath>
+      <HintPath>packages\InventoryService.Server.0.4.0-pre\lib\net40\InventoryService.InMemory.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="InventoryService.Messages, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
@@ -88,19 +88,19 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="InventoryService.NotificationActor, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>packages\InventoryService.Server.0.3.4-pre\lib\net40\InventoryService.NotificationActor.dll</HintPath>
+      <HintPath>packages\InventoryService.Server.0.4.0-pre\lib\net40\InventoryService.NotificationActor.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="InventoryService.Server, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>packages\InventoryService.Server.0.3.4-pre\lib\net40\InventoryService.Server.dll</HintPath>
+      <HintPath>packages\InventoryService.Server.0.4.0-pre\lib\net40\InventoryService.Server.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="InventoryService.Storage, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>packages\InventoryService.Server.0.3.4-pre\lib\net40\InventoryService.Storage.dll</HintPath>
+      <HintPath>packages\InventoryService.Server.0.4.0-pre\lib\net40\InventoryService.Storage.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="InventoryService.Storage.InMemoryLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>packages\InventoryService.Server.0.3.4-pre\lib\net40\InventoryService.Storage.InMemoryLib.dll</HintPath>
+      <HintPath>packages\InventoryService.Server.0.4.0-pre\lib\net40\InventoryService.Storage.InMemoryLib.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="Microsoft.AspNet.SignalR.Core, Version=2.2.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
